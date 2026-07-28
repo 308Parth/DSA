@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
 - Total Problems Solved: 10
-- Language: Java
+- Language: C++ and JAVA
 - Topics:
   - Arrays
   - Divide and Conquerx2
