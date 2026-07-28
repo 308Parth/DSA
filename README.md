@@ -4,10 +4,10 @@
 - Language: C++ and JAVA
 - Topics:
   - Arrays
-  - Divide and Conquerx2
+  - Divide and Conquer
   - Hash Table
   - Math
   - Greedy
   - Binary Search
-  - Sortingx2
+  - Sorting
   - Two Pointersx1
