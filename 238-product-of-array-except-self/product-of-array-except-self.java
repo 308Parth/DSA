@@ -4,7 +4,6 @@ class Solution {
         int a = 1;
         int j =0;
         int count =0;
-        int c =0;
         int[] result = new int[nums.length];
         
         /*for(i=0;i<nums.length;i++){
@@ -19,9 +18,8 @@ class Solution {
         for(i=0;i<nums.length;i++){
             if(nums[i]!=0){
                 a=a*nums[i];
-                c++;
             }
-            else if(nums[i]==0){
+            else{
                 count++;
             }
         }
