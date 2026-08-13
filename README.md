@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-- Total Problems Solved: 17
+- Total Problems Solved: 37
 - Language: C++ and JAVA
 - Topics:
   - Arrays
