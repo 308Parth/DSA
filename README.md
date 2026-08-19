@@ -1,13 +1,29 @@
 # LeetCode Solutions
 
-- Total Problems Solved: 37
+- Total Problems Solved: 50
 - Language: C++ and JAVA
 - Topics:
+
+  ## Fundamental
   - Arrays
-  - Divide and Conquer
+  - Strings
+  - Two Pointers
+  - Sorting
+  - Simulation
+  - Matrix
+  - Stack
+
+  ## Intermediate
   - Hash Table
   - Math
   - Greedy
+  - Sliding Window
+  - Bit Manipulation
   - Binary Search
-  - Sorting
-  - Two Pointersx1
+  - Recursion
+
+  ## Advanced
+  - Dynamic Programming
+  - Game Theory
+  - Divide and Conquer
+  - Trie
