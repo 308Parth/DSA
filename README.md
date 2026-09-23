@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-- Total Problems Solved: 50
+- Total Problems Solved: 110
 - Language: C++ and JAVA
 - Topics:
 
